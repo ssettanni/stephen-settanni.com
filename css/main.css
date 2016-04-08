@@ -1,0 +1,133 @@
+body {
+        margin:0;
+        font-family: 'Droid Sans', sans-serif;
+        background-color:#FFFFFF;
+        color:#55606e;
+    }
+
+    p {
+        line-height:190%;
+    }
+
+    #top-layer {
+        height:200px;
+        width:100%;
+        background-color:#307ECC;
+        margin:0;
+    }
+
+    #logo {
+        float:center;
+        width:100%
+
+    }
+    .fixed-width {
+        width:1000px;
+        height:50px;
+        margin:0 auto;
+        position:relative;
+        top:67px;
+    }
+
+    #logo p {
+        font-size:2em;
+        font-weight:bold;
+        text-align:center;
+        color:#FFFFFF;
+        margin:0;
+        padding-top:20px;
+    }
+
+    #main-menu {
+        margin:0 auto;
+        height:49px;
+        width:100%;
+        background-color:#55606E;
+        border-radius:5px;
+    }
+
+    #main-menu ul {
+        list-style:none;
+        margin:0 auto;
+        padding:0;
+    }
+
+    #main-menu li {
+        list-style:none;
+        float:left;
+        padding:16px 30px 0 30px;
+        float:left;
+    }
+
+    #main-menu a:link {
+        text-decoration:none;
+        color:#FFFFFF;
+        font-weight:bold;
+    }
+
+    #main-menu a:hover {
+        text-decoration:underline;
+    }
+
+    #main-menu a:visited {
+        text-decoration:none;
+        color:#FFFFFF;
+    }
+
+    #background-image {
+       position: relative;
+       top:-135px;
+       background-color:#FD5F3A;
+    }
+
+    #background-image img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: auto;
+        opacity: 0.3;
+    }
+
+    h1 {
+        margin:20px 0 20px 0;
+        padding:5px 0 0 20px;
+
+    }
+
+    #content-container {
+        float:left;
+        border-radius:2px;      
+    }
+
+    #content-container p {
+        padding-left:20px;
+        font-size:1.1em;
+
+    }
+
+    #tiny-font {
+        font-size:0.8em;
+    }
+
+    h2 {
+        margin:0;
+        padding-top:10px;
+    }
+
+    #bottom-h2 {
+        padding-left:20px;
+    }
+    #image-div {
+        float:left;
+    }
+
+    #image-div img {
+        width:320px;
+        padding:10px 10px 10px 20px;
+    }
+
+
+    .break {
+        clear:both;
+    }
