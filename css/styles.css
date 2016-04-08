@@ -1,0 +1,16 @@
+* {
+   outline: 1px solid red !important;
+}
+
+
+.float-left {
+	float:left;
+}
+
+.background-img {
+	background: url(https://images.unsplash.com/photo-1445346366695-5bf62de05412?crop=entropy&fit=crop&fm=jpg&h=1000&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925);
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-position:50%;
+	height:500px;
+}
